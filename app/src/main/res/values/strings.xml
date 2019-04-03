@@ -1,0 +1,19 @@
+<resources>
+
+    <string-array name="Menu">
+        <item>@string/new_student</item>
+        <item>@string/student_list</item>
+    </string-array>
+    <string name="student_list">Show students list</string>
+    <string name="new_student">New Student</string>
+    <string name="app_name">Grades App</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_lastname">Last Name</string>
+    <string name="create_btn">Add Student</string>
+    <string name="empty_msg">The list is empty</string>
+    <string name="err">Invalid grades</string>
+    <string name="mean">Mean</string>
+
+
+</resources>

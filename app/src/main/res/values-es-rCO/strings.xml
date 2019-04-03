@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas App</string>
+    <string name="student_list">Lista de estudiantes</string>
+    <string name="new_student">Nuevo estudiante</string>
+    <string name="txt_id">Identificación</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_lastname">Apellido</string>
+    <string name="create_btn">Agregar estudiente</string>
+    <string name="empty_msg">La lista está vacía</string>
+    <string name="err">Notas invalidas</string>
+    <string name="mean">Promedio</string>
+</resources>
